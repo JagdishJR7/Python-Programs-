@@ -1,0 +1,10 @@
+#program of arithmetic operator.py
+a=int(input("enter first number :"))
+b=int(input("enter second number :"))
+print("Addition of  number",a,"and",b,"is =",a+b)
+print("Subtraction of number ",a,"and",b,"is=",a-b)
+print("Division of number ",a,"and",b,"is =",a/b)
+print("multiplycation of number ",a,"and",b,"is =",a*b)
+print("modulus of number ",a,"and",b,"is =",a%b)
+print("Exponent of number ",a,"and",b,"is =",a**b)
+print("FLoor division of number",a,"and",b,"is =",a//b)
